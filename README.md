@@ -1,67 +1,126 @@
-<!-- TÍTULO PRINCIPAL CON EFECTO -->
+<!-- LOGO PRINCIPAL -->
+<p align="center">
+  <img src="assets/logo-eco-decisiones.png" alt="Eco Decisiones Logo" width="400"/>
+</p>
+
+<!-- TÍTULO CON EFECTO AMBIENTAL -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+repositorio;Proyecto+%5BNOMBRE%5D;Full+Stack+Developer" alt="Typing SVG" />
+  🌍 <strong>ECO DECISIONES</strong> 🌱
 </h1>
 
-<!-- PORTADA O LOGO PRINCIPAL -->
 <p align="center">
-  <img src="ruta-de-tu-imagen-principal.jpg" alt="Portada del Proyecto" width="800"/>
+  <em>Un plataformero pixel art que combina diversión y conciencia ambiental</em>
 </p>
 
-<!-- BADGES / ESCUDOS (Shields.io) -->
+<!-- BADGES TEMÁTICOS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/VERSI%C3%93N-1.0.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/LICENCIA-MIT-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PLATAFORMA-WEB-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/estado-EN%20DESARROLLO-green?style=for-the-badge&logo=game-developer&logoColor=white&color=2ecc71">
+  <img src="https://img.shields.io/badge/género-PLATAFORMO%202D-blue?style=for-the-badge&logo=unity&logoColor=white&color=3498db">
+  <img src="https://img.shields.io/badge/estilo-PIXEL%20ART-orange?style=for-the-badge&logo=pixel&logoColor=white&color=e67e22">
+  <img src="https://img.shields.io/badge/temática-MEDIOAMBIENTAL-brightgreen?style=for-the-badge&logo=forest&logoColor=white&color=27ae60">
 </p>
 
-<!-- BADGES DE TECNOLOGÍAS -->
+<!-- SEPARADOR CON HOJAS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  🌿 🌱 🍃 🌿 🌱 🍃
 </p>
 
-<!-- SEPARADOR VISUAL -->
 <hr>
 
-<!-- DESCRIPCIÓN DEL PROYECTO -->
-## 📝 Descripción
+<!-- DESCRIPCIÓN DE LA IDEA -->
+## 🎯 Sobre el proyecto
 
-Este es un proyecto de [breve descripción]. Desarrollado con [tecnologías] para [propósito del proyecto].
+**Eco Decisiones** nace de una idea clara: **concientizar sobre el cuidado del medioambiente a través de una experiencia de juego auténtica y atrapante**.
 
-### ✨ Características principales
-- ✅ Característica 1
-- ✅ Característica 2
-- ✅ Característica 3
-- ✅ Característica 4
+Creemos que los videojuegos son una herramienta poderosa para educar y sensibilizar. Por eso, combinamos la nostalgia y el encanto del **pixel art 2D** con mecánicas de **plataformas clásicas**, pero con un propósito más profundo.
 
-<!-- IMAGEN DE DEMOSTRACIÓN -->
-### 🖥️ Vista previa
+### 💡 La idea principal
+
+> *"Un juego donde cada nivel, cada obstáculo y cada decisión refleja el impacto de nuestras acciones en el planeta"*
+
+El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre:
+- 🌳 **Reforestación** y cuidado de ecosistemas
+- ♻️ **Reciclaje** y gestión de residuos
+- 💧 **Protección de fuentes de agua**
+- ⚡ **Energías renovables** vs. contaminación
+- 🐾 **Preservación de la biodiversidad**
+
+### 🎮 Propuesta de gameplay
+
+- **Estilo:** Plataformero 2D en pixel art (inspirado en clásicos como Celeste o Shovel Knight)
+- **Mecánicas:** Saltos, recolectar objetos, evitar enemigos (que representan contaminación)
+- **Niveles:** Cada nivel es un ecosistema diferente (bosque, océano, ciudad, etc.)
+- **Mensaje:** Al final de cada nivel, el jugador ve el impacto de sus decisiones ambientales
+
+<hr>
+
+<!-- VISTA PREVIA DEL JUEGO -->
+## 🖼️ Vista previa
+
+> *El juego está actualmente en desarrollo. Aquí algunos adelantos del arte conceptual y diseño de niveles.*
+
+### 🌲 Arte conceptual
 
 <div align="center">
-  <img src="ruta-de-captura-1.jpg" alt="Vista previa 1" width="400"/>
-  <img src="ruta-de-captura-2.jpg" alt="Vista previa 2" width="400"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/concept-art-bosque.jpg" alt="Bosque pixel art" width="400"/>
+        <br>
+        <em>Nivel "Bosque Encantado"</em>
+      </td>
+      <td align="center">
+        <img src="assets/concept-art-playa.jpg" alt="Playa contaminada" width="400"/>
+        <br>
+        <em>Nivel "Playa en peligro"</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- INSTALACIÓN -->
-## 🚀 Instalación
+### 🎮 Gameplay (en desarrollo)
 
-Sigue estos pasos para instalar el proyecto:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/gameplay-1.gif" alt="Gameplay ejemplo 1" width="300"/>
+        <br>
+        <em>Mecánicas de recolección</em>
+      </td>
+      <td align="center">
+        <img src="assets/gameplay-2.gif" alt="Gameplay ejemplo 2" width="300"/>
+        <br>
+        <em>Obstáculos ambientales</em>
+      </td>
+      <td align="center">
+        <img src="assets/gameplay-3.gif" alt="Gameplay ejemplo 3" width="300"/>
+        <br>
+        <em>Interacción con el entorno</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/tu-repositorio.git
+### 🎨 Personaje principal
 
-# Entrar al directorio
-cd tu-repositorio
+<div align="center">
+  <img src="assets/personaje-concept.png" alt="Personaje principal" width="250"/>
+  <p><em>Nuestro héroe: un guardián del medioambiente</em></p>
+</div>
 
-# Instalar dependencias (ejemplo)
-npm install
+<hr>
 
-# Ejecutar el proyecto
-npm start
+<!-- SEPARADOR VISUAL -->
+<p align="center">
+  🌍 ✦ 🌱 ✦ ♻️ ✦ 💧 ✦ 🌿
+</p>
+
+<!-- PIE DE PÁGINA CON MENSAJE AMBIENTAL -->
+<p align="center">
+  <strong>Eco Decisiones</strong> — Un juego que busca cambiar el mundo, un píxel a la vez.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&gradient=27ae60,2ecc71,f1c40f"/>
+</p>
