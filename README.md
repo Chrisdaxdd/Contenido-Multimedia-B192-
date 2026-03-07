@@ -15,7 +15,7 @@
 <!-- BADGES TEMÁTICOS -->
 <p align="center">
   <img src="https://img.shields.io/badge/estado-EN%20DESARROLLO-green?style=for-the-badge&logo=game-developer&logoColor=white&color=2ecc71">
-  <img src="https://img.shields.io/badge/género-PLATAFORMO%202D-blue?style=for-the-badge&logo=unity&logoColor=white&color=3498db">
+  <img src="https://img.shields.io/badge/género-PLATAFORMERO%202D-blue?style=for-the-badge&logo=unity&logoColor=white&color=3498db">
   <img src="https://img.shields.io/badge/estilo-PIXEL%20ART-orange?style=for-the-badge&logo=pixel&logoColor=white&color=e67e22">
   <img src="https://img.shields.io/badge/temática-MEDIOAMBIENTAL-brightgreen?style=for-the-badge&logo=forest&logoColor=white&color=27ae60">
 </p>
