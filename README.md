@@ -62,20 +62,9 @@ El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre
 ### 🌲 Arte conceptual
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/concept-art-bosque.jpg" alt="Bosque pixel art" width="400"/>
-        <br>
-        <em>Nivel "Bosque Encantado"</em>
-      </td>
-      <td align="center">
-        <img src="assets/concept-art-playa.jpg" alt="Playa contaminada" width="400"/>
-        <br>
-        <em>Nivel "Playa en peligro"</em>
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.imgur.com/9Azk0tU.png" alt="Nivel Playa en peligro" width="400"/>
+  <br>
+  <em>Concepto del nivel "Playa en peligro"</em>
 </div>
 
 ### 🎮 Gameplay (en desarrollo)
