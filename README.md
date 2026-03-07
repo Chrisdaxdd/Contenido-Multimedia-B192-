@@ -62,7 +62,7 @@ El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre
 ### 🌲 Arte conceptual
 
 <div align="center">
-  <img src="https://i.imgur.com/9Azk0tU.png" alt="Nivel Playa en peligro" width="400"/>
+  <img src="https://i.imgur.com/9Azk0tU.png" alt="Nivel Playa en peligro" width="500"/>
   <br>
   <em>Concepto del nivel "Playa en peligro"</em>
 </div>
