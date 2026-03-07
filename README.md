@@ -112,9 +112,7 @@ El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre
 <hr>
 
 <!-- SEPARADOR VISUAL -->
-<p align="center">
-  🌍 ✦ 🌱 ✦ ♻️ ✦ 💧 ✦ 🌿
-</p>
+
 
 <!-- PIE DE PÁGINA CON MENSAJE AMBIENTAL -->
 <p align="center">
