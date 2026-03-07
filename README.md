@@ -105,8 +105,8 @@ El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre
 ### 🎨 Personaje principal
 
 <div align="center">
-  <img src="assets/personaje-concept.png" alt="Personaje principal" width="250"/>
-  <p><em>Nuestro héroe: un guardián del medioambiente</em></p>
+  <img src="https://i.imgur.com/2YZwfbX.png" alt="Personaje principal" width="250"/>
+  <p><em>Nuestro héroe: Edward un guardián del medioambiente luchando por conseguir un futuro mejor</em></p>
 </div>
 
 <hr>
