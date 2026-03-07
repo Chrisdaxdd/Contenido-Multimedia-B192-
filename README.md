@@ -1,6 +1,6 @@
 <!-- LOGO PRINCIPAL -->
 <p align="center">
- <img src="https://i.imgur.com/Ua6zmqf.png" alt="Eco Decisiones Banner" width="100%" style="max-width: 1200px;"/>
+ <img src="https://i.imgur.com/Ua6zmqf.png" alt="Eco Decisiones Banner" width="970" height="250"/>
 </p>
 
 <!-- TÍTULO CON EFECTO AMBIENTAL -->
