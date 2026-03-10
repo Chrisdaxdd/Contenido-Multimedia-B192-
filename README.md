@@ -62,29 +62,7 @@ El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre
   <em>Concepto del nivel "Playa en peligro"</em>
 </div>
 
-### 🎮 Gameplay (en desarrollo)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="assets/gameplay-1.gif" alt="Gameplay ejemplo 1" width="300"/>
-        <br>
-        <em>Mecánicas de recolección</em>
-      </td>
-      <td align="center">
-        <img src="assets/gameplay-2.gif" alt="Gameplay ejemplo 2" width="300"/>
-        <br>
-        <em>Obstáculos ambientales</em>
-      </td>
-      <td align="center">
-        <img src="assets/gameplay-3.gif" alt="Gameplay ejemplo 3" width="300"/>
-        <br>
-        <em>Interacción con el entorno</em>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### 🎨 Personaje principal
 
