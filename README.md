@@ -25,28 +25,26 @@
 <hr>
 
 <!-- DESCRIPCIÓN DE LA IDEA -->
-## 🎯 Sobre el proyecto
+##  Sobre el proyecto
 
 **Eco Decisiones** nace de una idea clara: **concientizar sobre el cuidado del medioambiente a través de una experiencia de juego auténtica y atrapante**.
 
 Creemos que los videojuegos son una herramienta poderosa para educar y sensibilizar. Por eso, combinamos la nostalgia y el encanto del **pixel art 2D** con mecánicas de **plataformas clásicas**, pero con un propósito más profundo.
 
-### 💡 La idea principal
+###  La idea principal
 
 > *"Un juego donde cada nivel, cada obstáculo y cada decisión refleja el impacto de nuestras acciones en el planeta"*
 
 El jugador no solo superará desafíos de plataformas, sino que aprenderá sobre:
 - 🌳 **Reforestación** y cuidado de ecosistemas
-- ♻️ **Reciclaje** y gestión de residuos
 - 💧 **Protección de fuentes de agua**
-- ⚡ **Energías renovables** vs. contaminación
 - 🐾 **Preservación de la biodiversidad**
 
 ### 🎮 Propuesta de gameplay
 
-- **Estilo:** Plataformero 2D en pixel art (inspirado en clásicos como Celeste o Shovel Knight)
+- **Estilo:** Plataformero 2D en pixel art
 - **Mecánicas:** Saltos, recolectar objetos, evitar enemigos (que representan contaminación)
-- **Niveles:** Cada nivel es un ecosistema diferente (bosque, océano, ciudad, etc.)
+- **Niveles:** Cada nivel es un ecosistema diferente (bosque, océano, desierto, etc.)
 - **Mensaje:** Al final de cada nivel, el jugador ve el impacto de sus decisiones ambientales
 
 <hr>
