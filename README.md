@@ -20,10 +20,7 @@
   <img src="https://img.shields.io/badge/temática-MEDIOAMBIENTAL-brightgreen?style=for-the-badge&logo=forest&logoColor=white&color=27ae60">
 </p>
 
-<!-- SEPARADOR CON HOJAS -->
-<p align="center">
-  🌿 🌱 🍃 🌿 🌱 🍃
-</p>
+
 
 <hr>
 
